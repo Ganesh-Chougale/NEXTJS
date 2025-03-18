@@ -1,6 +1,13 @@
 ```bash
 npx create-next-app@latest
+# explicit approach
 ```  
+OR
+```bash
+npx create-next-app@latest <appName>
+#  impicit approach
+```  
+app name must start with small case  
 ```bash
 cd <ProjectName>
 npm run dev
