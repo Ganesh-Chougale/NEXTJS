@@ -1,5 +1,5 @@
 # Scenari 3  
-![](../../ZImages/013.png)  
+![](../../ZImages/01/013.png)  
 1. `/src` -----> `/app` -----> `/blog` -----> `/page.tsx`  
 ```typescript
 export default function Blog(){
@@ -7,7 +7,7 @@ export default function Blog(){
 }
 ```    
 at `localhost:3000/blog`  
-![](../../ZImages/014.png)  
+![](../../ZImages/01/014.png)  
 2. `/src` -----> `/app` -----> `/blog` -----> `/first` -----> `/page.tsx`  
 ```typescript
 export default function FirstBlog(){
@@ -15,7 +15,7 @@ export default function FirstBlog(){
 }
 ```    
 at `localhost:3000/blog/first`  
-![](../../ZImages/015.png)  
+![](../../ZImages/01/015.png)  
 3. `/src` -----> `/app` -----> `/blog` -----> `/secord` -----> `/page.tsx`  
 ```typescript
 export default function SecondBlog(){
@@ -23,7 +23,7 @@ export default function SecondBlog(){
 }
 ```  
 at `localhost:3000/blog/secord`  
-![](../../ZImages/016.png)    
+![](../../ZImages/01/016.png)    
 
 ## the summary of files & folder structure
-![](../../ZImages/017.png)    
+![](../../ZImages/01/017.png)    
